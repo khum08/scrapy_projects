@@ -1,0 +1,17 @@
+num;name1;name2
+0;Apple scab;Venturia inaequalis;file:
+1;Black rot;Botryosphaeria obtusa
+2;Cedar apple rust;Gymnosporangium juniperi-virginianae
+3;Flyspeck;Zygophiala jamaicensis
+4;Powdery mildew;Podosphaera leucotricha
+5;Sooty blotch and flyspeck;Leptodontium elatius,Peltaster fructicola,Geastrumia polystigmatus
+6;Fire blight;Erwinia amylovora
+7;Phytophthora crown and root rot;Phytophthora
+8;Aphids (Green apple aphid, Woolly apple aphid);Aphis pomi,Eriosoma lanigerum
+9;Apple maggot;Rhagoletis pomonella
+10;Codling moth;Cydia pomonella
+11;Leafhoppers (White apple leafhopper, Rose leafhopper);Typhlocyba pomaria,Edwardsiana rosae
+12;Leafrollers (Omnivorous leafroller, Redbanded leafroller, etc);Platynota stultana,Argyrotaenia velutinana
+13;Roundheaded apple tree borer;Saperda candida 
+14;Stinkbugs  (Various);
+15;Spider mites;Tetranychus urticae
